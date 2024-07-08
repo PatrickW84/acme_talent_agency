@@ -7,3 +7,5 @@ const client = new pg.Client(
 module.exports = {
   client,
 };
+
+//put tables in db.js import to index.js
